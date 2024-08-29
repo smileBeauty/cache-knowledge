@@ -1,0 +1,26 @@
+{
+  "name": "cache-knowledge",
+  "version": "0.0.1",
+  "description": "cache 缓存 强缓存 协商缓存",
+  "main": "lunch.js",
+  "scripts": {
+    "start": "node ./lunch.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smileBeauty/cache-knowledge.git"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "author": "smileBeauty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smileBeauty/cache-knowledge/issues"
+  },
+  "homepage": "https://github.com/smileBeauty/cache-knowledge#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
